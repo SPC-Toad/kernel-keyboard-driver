@@ -1,4 +1,4 @@
-# Primer PS/2 Keyboard driver 
+# PS/2 Keyboard driver 
 ## *Sangyun Kim* 
 ## Date: 09/26/24
 
