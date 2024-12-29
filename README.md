@@ -47,3 +47,9 @@ Check out:
     - https://wiki.osdev.org/PS/2_Keyboard 
     - https://wiki.osdev.org/%228042%22_PS/2_Controller#Data_Port
     - https://tldp.org/LDP/lkmpg/2.6/html/x1256.html
+
+
+
+
+https://github.com/user-attachments/assets/5b68266c-6085-4a1b-a8bc-aaed0bd9a7e3
+
