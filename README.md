@@ -1,6 +1,5 @@
 Sangyun Kim 
-CAS CS 552 FALL 2024
-Assignment 0: Primer PS/2 Keyboard driver 
+Primer PS/2 Keyboard driver 
 09/26/24
 
 IMPORTANT!
